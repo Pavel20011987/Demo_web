@@ -1,5 +1,6 @@
 ﻿using Demo_web.Models;
 using Microsoft.EntityFrameworkCore;
+using Demo_web;
 //using System.Data.Entity;
 
 namespace Demo_web
